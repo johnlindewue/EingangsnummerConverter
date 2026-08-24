@@ -3,3 +3,6 @@ Parses old Nexus / Pathologie format order numbers to new Nexus / Pathologie for
 
 # Usage
 Put each order number into a single line in the file input.txt and run the python program.
+
+# Disclaimer
+This code has been partially created by AI.
